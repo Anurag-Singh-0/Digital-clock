@@ -1,0 +1,39 @@
+@media only screen and (max-width: 480px) {
+  .clock {
+    max-width: 300px;
+  }
+
+  .date {
+    font-size: 15px;
+  }
+
+  .clock .time {
+    font-size: 50px;
+  }
+
+  .labels p {
+    font-size: 10px;
+  }
+
+  .labels {
+    width: 80%;
+  }
+
+  .circle {
+    height: 70px;
+    width: 70px;
+    top: 40%;
+    left: 5%;
+  }
+
+  .square {
+    height: 70px;
+    width: 70px;
+    bottom: 70%;
+    right: 5%;
+  }
+
+  .wrapper {
+    height: 70%;
+  }
+}
